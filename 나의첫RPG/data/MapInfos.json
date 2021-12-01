@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"월드맵","order":1,"parentId":0,"scrollX":964,"scrollY":792},
+{"id":2,"expanded":true,"name":"늅늅마을","order":2,"parentId":1,"scrollX":531.1111111111111,"scrollY":563.5555555555555},
+{"id":3,"expanded":true,"name":"황금마차","order":3,"parentId":2,"scrollX":524,"scrollY":389.3333333333333},
+{"id":4,"expanded":true,"name":"성문을 열어라","order":6,"parentId":1,"scrollX":524,"scrollY":389.3333333333333},
+{"id":5,"expanded":true,"name":"성안쪽","order":7,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":6,"expanded":false,"name":"공터","order":9,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":false,"name":"지하","order":8,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":false,"name":"이상한 들판","order":5,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":false,"name":"지하감옥","order":4,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":10,"expanded":true,"name":"숲","order":10,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":11,"expanded":false,"name":"채석장","order":11,"parentId":10,"scrollX":0,"scrollY":0}
+]
